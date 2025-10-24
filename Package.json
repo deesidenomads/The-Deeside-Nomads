@@ -1,0 +1,27 @@
+{
+  "name": "deeside-nomads-bushcraft-app",
+  "version": "1.0.0",
+  "description": "Bushcraft and outdoor education event booking app using React and Firebase.",
+  "main": "App.jsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "firebase": "11.6.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
+
